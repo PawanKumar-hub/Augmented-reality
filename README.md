@@ -50,7 +50,7 @@ Ball model
 
 ## License
 
-Deepak mishra
+Pawan Kumar
 
 **Free Software, Hell Yeah!**
 
